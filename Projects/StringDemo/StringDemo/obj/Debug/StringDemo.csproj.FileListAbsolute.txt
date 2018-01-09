@@ -1,0 +1,9 @@
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\bin\Debug\StringDemo.exe.config
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\bin\Debug\StringDemo.exe
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\bin\Debug\StringDemo.pdb
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.csprojResolveAssemblyReference.cache
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.Form1.resources
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.Properties.Resources.resources
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.csproj.GenerateResource.Cache
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.exe
+c:\users\753909\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.pdb

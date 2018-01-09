@@ -1,0 +1,96 @@
+﻿body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    align-content: center;
+
+}
+
+header {
+    align-content: center;
+}
+
+
+h1 {
+    font-family: Catamaran;
+}
+
+main {
+
+}
+
+aside {
+    float: left;
+}
+
+#image_wrapper {
+    padding: 5px;
+}
+
+#content_wrapper {
+    float: left;
+    padding: 5px;
+    width: 300px;
+}
+
+#drop_wrapper {
+    padding: 10px;
+}
+
+#drop_down1, #drop_down2 {
+    padding: 10px;
+}
+
+#ddlFrom {
+    align-content: center;
+}
+
+#ddlTo {
+    align-content: center;
+}
+
+#lbl_from, #lbl_to {
+    width: 100px;
+    padding: 3px;
+}
+
+#input {
+    padding: 20px;
+}
+
+#lbl_Input_Temp {
+    padding: 3px;
+}
+
+#txt_Input_Temp {
+
+}
+
+#validate {
+    color: red;
+}
+
+#btns {
+    padding: 20px;
+}
+
+#btnCalculate {
+    border: 2px solid blue;
+    background-color: blue;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+#btnClear {
+    background-color: white;
+    padding: 10px 20px;
+    border: 2px solid blue;
+    color: blue;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+

@@ -1,0 +1,44 @@
+﻿body {
+    font-family: 'Arimo', sans-serif;
+    background-color: teal;
+}
+
+header {
+    align-content: center;
+    vertical-align: central;
+}
+
+form {
+    background-color: white;
+    border-radius: 6px;
+}
+
+body h1 {
+    font-family: Catamaran;
+    font-weight: 700;
+    color: darkblue;
+    padding: 5px;
+}
+
+#ddlTechnicians {
+    font-family:  Catamaran;
+    font-size: larger;
+    font-weight: 600;
+    background-color: midnightblue;
+    color: white;
+}
+.img {
+    width: 85px;
+    height: 85px;
+    border-radius: 6px;
+}
+
+.dropdown {
+    padding: 10px;
+}
+
+.table {
+    background-color: ghostwhite;
+    padding: 10px;
+}
+

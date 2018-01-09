@@ -1,0 +1,9 @@
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\bin\Debug\ShuffleDeck.exe.config
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\obj\Debug\ShuffleDeck.csprojResolveAssemblyReference.cache
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\obj\Debug\ShuffleDeck.Form1.resources
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\obj\Debug\ShuffleDeck.Properties.Resources.resources
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\obj\Debug\ShuffleDeck.csproj.GenerateResource.Cache
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\bin\Debug\ShuffleDeck.exe
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\bin\Debug\ShuffleDeck.pdb
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\obj\Debug\ShuffleDeck.exe
+c:\users\753909\documents\visual studio 2015\Projects\ShuffleDeck\ShuffleDeck\obj\Debug\ShuffleDeck.pdb
